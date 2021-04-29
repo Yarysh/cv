@@ -1,62 +1,65 @@
-
-<p align="center"><img src="header.png"></p>
+<p align="center">
+    <img src="./photo.png">
+</p>
 
 <p align="center">
-  <a href="https://twitter.com/emilwallner"><img src="https://img.shields.io/badge/Twitter-8952-34A1F2.svg" alt="Twitter"></a>
-  <a href="https://medium.com/@emilwallner"><img src="https://img.shields.io/badge/Medium-4256-71EF8E.svg" alt="Medium"></a>
-  <a href="mailto:w@llner.co"><img src="https://img.shields.io/badge/Email-w%40llner.co-red.svg" alt="Email"></a>
-  <a href="https://github.com/emilwallner"><img src="https://img.shields.io/badge/GitHub-1352-000000.svg" alt="GitHub"></a>
-  <a href="https://goo.gl/maps/gxHX7SRQQTL2"><img src="https://img.shields.io/badge/Location-Paris-00FFB4.svg" alt="Paris"></a>
-
-  <img src="https://img.shields.io/badge/Telegram-%40emilwallner-%233DA6D9.svg" alt="Telegram">
-
+    <a href="https://www.linkedin.com/in/yarysh/" target="_blank"><img src="linkedin.svg" alt="LinkedIn"></a>
+    <a href="https://t.me/yarysh" target="_blank"><img src="telegram.svg" alt="Telegram"></a>
+    <a href="https://github.com/yarysh" target="_blank"><img src="github.svg" alt="GitHub"></a>
 </p>
 
 ---
 
-I'm currently a resident at Google using machine learning to explore art and culture. Part-time, I'm doing independent research in neural reasoning, applying machine learning to mathematics, programming, and logical tasks. 
-
-In 2018, I made a popular open-source project that translates design mock-ups into HTML/CSS, [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code), and in early 2019 I was subject for a short-film by Google for my work on [automated colorization](https://www.youtube.com/watch?v=xKPk7tG2upc). 
-
-I used to work for the University of Oxford and co-founded a [seed investment firm](http://emerge.education/) focussed on education technology (59 investments). 
-
-Email: w@llner.co
+I'm a backend developer with a solid knowledge of PHP, Go and Python and team leader experience. Self-taught, quick learner, believer in code serving business goals and not the other way around.
 
 <br/>
 
 ## Experience 
 
-#### Residency, [Google](https://artsandculture.google.com/)
-##### July 2019 - Present | Paris
+#### Software Developer, [Zoon.ru](https://zoon.ru/){:target="_blank"}
+##### June 2017 - April 2021 | Moscow, Russia
 
---- 
+Backend developer in the B2C team.
 
-#### Machine Learning Internship, [FloydHub (YC W17)](https://www.floydhub.com/)
-##### July 2017 - January 2018 (7 months)  | San Francisco
+— Developed new and supported existing business features that users interact with such as different catalogues, search, comments, etc. Participated in the development of APIs for our affiliates and mobile app.
 
-Developing deep learning projects and documenting the process.
+— Responsible for the company's call tracking system based on Asterisk and Lua. Developed and supported middleware based on Golang for collecting and processing calls.
 
----
+— Became a team lead and got additional responsibilities for code review, deploying features and hiring (July 2019)
+
+— Technologies used: PHP 7, Golang, MongoDB, Elasticsearch, Docker, Asterisk, Lua, Python 3
+<br />
+
+#### Software Developer, Freelance
+##### January 2016 - May 2017 | Kostroma, Russia
+
+Worked as an individual developer on different projects that were found on Upwork and other freelancing platforms. The most interesting are:
+
+— CRM system for goods suppliers for an [online store](https://akson.ru){:target="_blank"}, project was developed in PHP5 (Symfony2) and MSSQL
+
+— Developed from scratch [Skeretar.io](https://sekretar.io){:target="_blank"} - an answering machine-like service that transcripts incoming calls and sends messages to email/Telegram app. Main tech stack: Python3 (Django + DRF), Celery (RabbitMQ), PostgreSQL, ReactJS (Redux), Asterisk.
+<br />
+
+#### Software Developer, [Gruzopoisk.ru](https://gruzopoisk.ru/){:target="_blank"}
+##### January 2012 - December 2015 | Moscow, Russia
+
+I started working on the project as a freelancer at its very beginning, when it was just a pet-project for its founders. Later, when our project got investments, I became a permanent member of the team.
+
+I was responsible of developing project's server side in PHP and Python and working on data integration with internal services: CRM, newsletter system, statistics.
+The project team consisted of 5 members. The tech stack was: PHP5 (Phalcon), Python3 (Django), PostgreSQL, Redis, JQuery, ElasticSearch, Kibana.
 
 <br/>
 
 ## Education
 
-#### Computer Science, [42](https://www.42.fr/)
-##### (2016 - 2020) | Paris
+#### Kostroma State Technological University (KSTU)
+##### (2006 - 2011) | Kostroma, Russia
 
-A peer-to-peer CS school without teachers. 
-
-
----
-
+Bachelor of Engineering - BE, Technology and Machinery for Natural Fibers Manufacturing
 
 <br/>
 
-## Quirks
+## Courses
 
-- I've lived in Ghana where I volunteered as a teacher and accidentally became the king of the village I lived in. 
-- I joined a music group and toured a dozen countries. My highlight was a Spanish solo for 6k Mexicans. (For the record, I'm a terrible singer. I only got the opportunity because the three first options were sick.)
-- For a year, I lived as a digital nomad in southeast Asia, the States, and South Africa.
-- I run the equivalent of a marathon every week, only wear black, and I own less than a hundred objects. 
-- I've participated in a silent retreat and taken several solo trips to remote parts of the world. 
+#### [Developing web services with Go - language basics](https://www.coursera.org/account/accomplishments/verify/JT29V4TZ79TS){:target="_blank"}
+##### September 2018 | Coursera.org
