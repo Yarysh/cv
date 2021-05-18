@@ -63,3 +63,6 @@ Bachelor of Engineering - BE, Technology and Machinery for Natural Fibers Manufa
 
 #### [Developing web services with Go - language basics](https://www.coursera.org/account/accomplishments/verify/JT29V4TZ79TS){:target="_blank"}
 ##### September 2018 | Coursera.org
+
+#### [Developing web services with Go, Part II](https://www.coursera.org/account/accomplishments/verify/2AEGUPWCLBEM){:target="_blank"}
+##### May 2021 | Coursera.org
