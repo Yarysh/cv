@@ -50,15 +50,6 @@ The project team consisted of 5 members. The tech stack was: PHP5 (Phalcon), Pyt
 
 <br/>
 
-## Education
-
-#### Kostroma State Technological University (KSTU)
-##### (2006 - 2011) | Kostroma, Russia
-
-Bachelor of Engineering - BE, Technology and Machinery for Natural Fibers Manufacturing
-
-<br/>
-
 ## Courses
 
 #### [Developing web services with Go - language basics](https://www.coursera.org/account/accomplishments/verify/JT29V4TZ79TS){:target="_blank"}
@@ -66,3 +57,12 @@ Bachelor of Engineering - BE, Technology and Machinery for Natural Fibers Manufa
 
 #### [Developing web services with Go, Part II](https://www.coursera.org/account/accomplishments/verify/2AEGUPWCLBEM){:target="_blank"}
 ##### May 2021 | Coursera.org
+
+<br />
+
+## Education
+
+#### Kostroma State Technological University (KSTU)
+##### (2006 - 2011) | Kostroma, Russia
+
+Bachelor of Engineering - BE, Technology and Machinery for Natural Fibers Manufacturing
